@@ -1,10 +1,10 @@
 *Contains Subjects and Concepts tackled during and for Aero engineering.* 📖
 
 # Aeronautical Engineering ✈️
-- **[[./Aerodynamics|Aerodynamics]]**
-- **[[./Powerplant|Powerplant]]**
-- **[[./Thermodynamics|Thermodynamics]]**
+- **[Aerodynamics](./Aerodynamics.md)**
+- **[Powerplant](./Powerplant.md)**
+- **[Thermodynamics](./Thermodynamics.md)**
 
-# [[./MISC Miscellaneous|MISC Miscellaneous]]
+# [MISC Miscellaneous](./MISC%20Miscellaneous.md)
 
 #SubHeader 
