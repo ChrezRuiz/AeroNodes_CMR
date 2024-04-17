@@ -10,7 +10,7 @@ Welcome to the Aero Academe & R&D nodes project! Located in this vault are notes
 ## Main Waypoints 🗺️
 *To begin, select from the following major waypoints. More to be added soon.*
 - [Engineering Concepts & Subjects](./Engineering%20Concepts%20&%20Subjects.md)
-- [Research Concepts and Ideas](./Research%20Concepts%20and%20Ideas.md)
+- [MISC Research Concepts and Ideas](./MISC%20Research%20Concepts%20and%20Ideas.md)
 
 ## Vision of the Project 💭
 Provide a vault of notes that discusses most, if not all, Aero-related engineering concepts and connects them together, while providing research concepts and ideas that reference these concepts.
