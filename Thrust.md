@@ -19,11 +19,11 @@ where:
 ![Pasted image 20240421190357.png](./Engineering%20Concepts%20&%20Subjects/Aerodynamics/Chapter%206%20-%20Aircraft%20Performance/Pasted%20image%2020240421190357.png)
 *Propulsive Efficiency of Different Engines (Yin, 2016)*
 #### Principle:
-- [Propellers](Propellers.md) have the highest efficiency among other engines, but degrade at Mach 1.
+- [Propellers](./Propellers.md) have the highest efficiency among other engines, but degrade at Mach 1.
 - [Turbojets](Turbojets.md) have strong velocity capabilities with ability to surpass Mach 1, thus longer range, but lower efficiency. 
 - High [Bypass](Bypass.md) Turbojet engines have better efficiency compared to pure turbojets.
 #### Expound: 
-- [Propellers](Propellers.md) 
+- [Propellers](./Propellers.md) 
 	- *utilizes*: airfoils spun to generate thrust through "[Lift (L)](./Lift%20(L).md)" effects, but not equal to it. 
 	- *instead*: thrust is the resultant force parallel to the longitudinal axis of the cone or aircraft caused by Thrust, Drag, and other aerodynamic effects.
 	- *thus,* due to modifiable propeller radius, capturing more mass air, based on the *Thrust Equation* airfoil characteristics, increases the thrust output with less fuel consumption based on engine efficiency
