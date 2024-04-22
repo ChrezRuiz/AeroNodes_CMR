@@ -1,1 +1,1 @@
-- 
+- Drag force affects the [aerodynamics](./Aerodynamics.md) of an aircraft, thus affecting performance. Analysis of the variable is important for proper determination of aircraft performance.
