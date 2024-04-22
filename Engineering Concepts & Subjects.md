@@ -5,6 +5,4 @@
 - **[Powerplant](./Powerplant.md)**
 - **[Thermodynamics](./Thermodynamics.md)**
 
-# [MISC Miscellaneous](./MISC%20Miscellaneous.md)
-
 #SubHeader 
