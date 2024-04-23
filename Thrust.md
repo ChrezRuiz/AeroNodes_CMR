@@ -5,7 +5,7 @@
 	- For [Rocket Engine](Rocket%20Engine.md) : *Tremendous Thrust, Poor Propulsive Efficiency, rated for Longest Range and Speed*
 
 ---
-### Thrust Equation:
+### Engine Thrust Equation:
 
 $$
 F = \dot{m}(V_i-V_{e}) +A_1(P_i-P_e)
@@ -15,6 +15,10 @@ where:
 - $V_{e}$ and $P_e$ are Exhaust Velocity and Pressure
 
 --- 
+### Aerodynamic Thrust Equation:
+$$T=\frac{L}{\frac{C_{L}}{C_{D}}}$$
+$$\therefore T\text{ @ Steady, Level, Unaccelerated Flight}=\frac{L}{\frac{C_{L}}{C_{D}}}=\frac{W}{\frac{C_{L}}{C_{D}}}$$ ^f63895
+---
 ### Propulsive Efficiency
 ![Pasted image 20240421190357.png](./Engineering%20Concepts%20&%20Subjects/Aerodynamics/Chapter%206%20-%20Aircraft%20Performance/Pasted%20image%2020240421190357.png)
 *Propulsive Efficiency of Different Engines (Yin, 2016)*
