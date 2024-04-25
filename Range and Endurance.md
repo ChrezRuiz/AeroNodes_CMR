@@ -58,7 +58,7 @@ $$v=\frac{ds}{dt}=\frac{\text{Range}}{\text{Endurance}}$$
 - Describes the weight consumption per [Thrust](./Thrust.md), providing a factor unit.
 - general equations: 
 	- Thrust Specific Fuel Consumption: 
-		- *For Jet Engines or engines rated by Velocity ([Gas Turbine Engine](./Gas%20Turbine%20Engine.md))*  
+		- *For Jet Engines or engines rated by Velocity ([Jet Engine](./Jet%20Engine.md))*  
 		- $$\text{TSFC}=c_T=\frac{\dot{-W_{f}}}{T}$$
 		- $$DA:\frac{\frac{N}{s}}{N}=\frac{N}{N(s)}=\frac{1}{s}$$ 
 	- Power Specific Fuel Consumption: 

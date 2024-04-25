@@ -1,7 +1,7 @@
 - <span style="background:rgba(5, 117, 197, 0.2)">The amount of [Force](Force.md) that the [Powerplant](./Powerplant.md) of the aircraft is able to output</span>, or the needed amount for an aircraft to achieve a set performance
 - Each engine varies in thrust output and propulsive efficiency
 	- For Reciprocating Engine-Propeller Combination : *Low Thrust, High Propulsive Efficiency, rated for endurance and efficiency*
-	- For Turbojet Engines/[Gas Turbine Engine](./Gas%20Turbine%20Engine.md) : *High Thrust, Less Propulsive Efficiency, rated for Range*
+	- For Turbojet Engines/[Jet Engine](./Jet%20Engine.md) : *High Thrust, Less Propulsive Efficiency, rated for Range*
 	- For [Rocket Engine](Rocket%20Engine.md) : *Tremendous Thrust, Poor Propulsive Efficiency, rated for Longest Range and Speed*
 
 ---

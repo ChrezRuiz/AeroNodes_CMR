@@ -1,0 +1,1 @@
+ - measure of fluid resistance to deformation at a given rate
