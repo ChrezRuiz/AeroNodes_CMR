@@ -1,0 +1,1 @@
+includes general information about the design such as dimensions, wing loading, limiting airspeeds and required placards and markings, control surface travel, engine installations and, where applicable, approved engine/propeller combinations.
