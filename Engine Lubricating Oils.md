@@ -1,0 +1,15 @@
+### Functions:
+- Reduce [Friction](./Friction.md)
+    - Surfaces have rough surfaces at a microscopic level, _causing_ wear and tear during contact
+    - _Principle:_ Sliding than grinding by filling peaks and valleys through Engine oil prevents or reduces contact due to [Viscosity](./Viscosity.md) properties
+    - ![Friction > Types Concerning Engine Lubrication](./Friction.md#Types%20Concerning%20Engine%20Lubrication)
+- [Heat (Q)](./Heat%20(Q).md) Absorption
+    - _Principle:_ Engine oil acts as a heat sink which is cooled through coolers to regulate heat exchange
+- Seals
+    - _Principle:_ Oil viscosity acts as a barrier between areas by filling microscopic gaps between components, preventing leaks
+- Cushion
+    - _Principle:_ Provides cushioning effect etweren metals (radial, axial, thrust) by providing a soft barrier between metals
+- Cleans
+    - serves as cleaning agent by pickup up foreign particles (contaminants) to be filtered
+- Protects Against Corrosion
+    - coating engine parts to form a barrier prevents Oxygen and moisture from causing corrosion from contact reaction
