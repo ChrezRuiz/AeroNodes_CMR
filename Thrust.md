@@ -20,7 +20,7 @@ $$T=\frac{L}{\frac{C_{L}}{C_{D}}}$$
 $$\therefore T\text{ @ Steady, Level, Unaccelerated Flight}=\frac{L}{\frac{C_{L}}{C_{D}}}=\frac{W}{\frac{C_{L}}{C_{D}}}$$ ^f63895
 ---
 ### Propulsive Efficiency
-![Pasted image 20240421190357.png](./Engineering%20Concepts%20&%20Subjects/Aerodynamics/Chapter%206%20-%20Aircraft%20Performance/Pasted%20image%2020240421190357.png)
+![Pasted image 20240421190357.png](./Engineering%20Concepts%20&%20Subjects/Aerodynamics/Chapter%206%20-%20Aircraft%20Performance/Photos/Pasted%20image%2020240421190357.png)
 *Propulsive Efficiency of Different Engines (Yin, 2016)*
 #### Principle:
 - [Propellers](./Propellers.md) have the highest efficiency among other engines, but degrade at Mach 1.
