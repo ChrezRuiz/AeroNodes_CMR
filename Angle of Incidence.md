@@ -1,2 +1,2 @@
-![Basic Propeller Aerodynamics 1.jpg](./Engineering%20Concepts%20&%20Subjects/Aerodynamics/Chapter%206%20-%20Aircraft%20Performance/Basic%20Propeller%20Aerodynamics%201.jpg)
+![Basic Propeller Aerodynamics 1.jpg](./Engineering%20Concepts%20&%20Subjects/Aerodynamics/Chapter%206%20-%20Aircraft%20Performance/Photos/Basic%20Propeller%20Aerodynamics%201.jpg)
 The angle between the [Chord Line](Chord%20Line.md) and the [Longitudinal Axis](Longitudinal%20Axis.md). Commonly denoted as $\alpha$.
