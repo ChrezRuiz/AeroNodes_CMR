@@ -27,7 +27,11 @@ Drag force affects the aerodynamics of an aircraft, thus affecting performance. 
 ![Drag Polar](./Drag%20Polar.md)
 
 ---
-# V. Range & Endurance
+# V. Rate of Climb
+![Rate of Climb](./Rate%20of%20Climb.md)
+
+--- 
+# VI. Range & Endurance
 Differentiating the range and endurance capabilities of an aircraft determines the mission scope of the design.
 
 ![Range and Endurance](./Range%20and%20Endurance.md)
