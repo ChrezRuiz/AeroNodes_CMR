@@ -3,7 +3,7 @@
 *Range is the amount of displacement that an aircraft design is capable of.* 
 $$R=V_{\infty}dt$$
 *Endurance is the amount of time an aircraft design is capable of staying aloft.*
-$$E=dt$$
+$$E=dt$$ ^d41af2
 
 *Therefore,* **Range** is a product of **Endurance** and **[Velocity](./Velocity.md)**.
 
@@ -56,19 +56,20 @@ $$v=\frac{ds}{dt}=\frac{\text{Range}}{\text{Endurance}}$$
 - $$\frac{dW}{dt}=\frac{dW_{f}}{dt}=\frac{-W_{f}}{t}=\dot{-W_{f}}$$
 #### Specific Fuel Consumption (SFC)
 - Describes the weight consumption per [Thrust](./Thrust.md), providing a factor unit.
-- general equations: 
-	- Thrust Specific Fuel Consumption: 
+- general equations:  ^7948b3
+	- Thrust Specific Fuel Consumption:  ^d4b21f
 		- *For Jet Engines or engines rated by Velocity ([Jet Engine](./Jet%20Engine.md))*  
 		- $$\text{TSFC}=c_T=\frac{\dot{-W_{f}}}{T}$$
 		- $$DA:\frac{\frac{N}{s}}{N}=\frac{N}{N(s)}=\frac{1}{s}$$ 
-	- Power Specific Fuel Consumption: 
+
+	- Power Specific Fuel Consumption:  ^800921
 		- *For [Propeller](Propeller.md)-driven Engines or engines rated by Brake Power*
 		- $$\text{PSFC}=c=\frac{-\dot{W_{f}}}{P}$$
 		- $$DA:\frac{\frac{N}{s}}{\frac{Nm}{s}}=\frac{Ns}{Nsm}=\frac{1}{m}$$
 	- Equation *for piston engine-propeller using Velocity:* $$\text{TSFC}=c_{t}=\frac{cV_{\infty}}{\eta_{pr}}$$
 
 #### Breguet's Range and Endurance Equation
-- ##### Propellers
+- ##### Propellers ^540682
 	- *Range*
 		- refer first to Endurance, obtain equation for $dt$ because $$R=ds=V_{\infty}dt$$
 		- in this case, $$R=V\left(\frac{1}{c}\right)\left(\frac{C_{L}}{C_{D}}\right)\left(\frac{1}{V}\right)\int^{W_{0}}_{W_{1}}\frac{dW}{W}$$
@@ -82,7 +83,7 @@ $$v=\frac{ds}{dt}=\frac{\text{Range}}{\text{Endurance}}$$
 		- expand Velocity to extract Weight Factor $$\text{if } V=\sqrt\frac{2W}{\rho sC_{L}}$$ $$\therefore E=\frac{1}{c}\left(\frac{C_{L}}{C_{D}}\right)\left(\sqrt\frac{\rho s C_{L}}{2W}\right)\int^{W_{0}}_{W_{1}}\frac{dW}{W}$$
 		- extract W from velocity equation to combine and integrate with $\frac{dW}{W}$, W in Velocity becomes $\frac{1}{\sqrt{W}}=\frac{1}{W^{\frac{1}{2}}}$ , which can be multiplied to $\frac{dW}{W}$  $$\therefore E=\frac{1}{c}\left(\frac{C_{L}^\frac{3}{2}}{C_{D}}\right)\left(\sqrt\frac{\rho s}{2}\right)\int^{W_{0}}_{W_{1}}\frac{dW}{W^\frac{3}{2}}$$
 		- integrate $$\therefore E=\frac{1}{c}\left(\frac{C_{L}^\frac{3}{2}}{C_{D}}\right)\left(\sqrt\frac{\rho s}{2}\right)\frac{-2}{[\sqrt{W}]^{W_{0}}_{W_{1}}}$$
-- ##### Jet Engines
+- ##### Jet Engines ^dfd8ef
 	- *Range*
 		-  Obtain $dt$ from Endurance, and Multiply $V$ due to $R=V_{\infty}dt$  $$R=ds=V_{\infty}dt=V\left[\frac{1}{c_{T}}\left(\frac{C_{L}}{C_{D}}\right)\left(\int^{W_{0}}_{W_{1}}\frac{dW}{W}\right)\right]$$
 		- based from Velocity equation derived from Lift equation $$\text{if } V=\sqrt\frac{2W}{\rho sC_{L}}$$
