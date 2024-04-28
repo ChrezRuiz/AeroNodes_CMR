@@ -1,0 +1,4 @@
+- *temperature @ the:* [Turbine Section (Jet Engine)](./Turbine%20Section%20(Jet%20Engine).md) Outlet
+- measured through thermocouples installed at the turbine outlet
+- for practicality, it is assumed to be equal to [Turbine Engine Exhaust Gas Temperature (EGT)](./Turbine%20Engine%20Exhaust%20Gas%20Temperature%20(EGT).md)
+	- though EGT is lower, the data is sufficient for an analysis of aircraft performance

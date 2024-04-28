@@ -1,6 +1,6 @@
 Crucial in the [Aircraft Design](Aircraft%20Design.md) is the analysis of the performance it is capable to output. Such an analysis can be achieved through logic systems based on previous discussions on aerodynamic concepts.
 
-It is affected by both the [Aerodynamics](./Aerodynamics.md) and [Powerplant](./Powerplant.md) of an aircraft
+It is affected by both the [Aerodynamics](./Aerodynamics.md) and [Aircraft Powerplant](./Aircraft%20Powerplant.md) of an aircraft
 
 In this case we can look into the Lift, Velocity, Drag, Profile shape, and many others that will be discussed in this chapter note.
 

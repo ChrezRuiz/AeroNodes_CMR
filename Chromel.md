@@ -1,0 +1,2 @@
+- nonmagnetic nonferrous nickel chromium alloy
+- *color-code:* white

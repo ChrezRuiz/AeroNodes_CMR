@@ -1,0 +1,2 @@
+- magnetic ferrous alloy of Nickel Aluminum
+- *color-coded:* green

@@ -1,4 +1,4 @@
-- <span style="background:rgba(5, 117, 197, 0.2)">The amount of [Force](Force.md) that the [Powerplant](./Powerplant.md) of the aircraft is able to output</span>, or the needed amount for an aircraft to achieve a set performance
+- <span style="background:rgba(5, 117, 197, 0.2)">The amount of [Force](Force.md) that the [Aircraft Powerplant](./Aircraft%20Powerplant.md) of the aircraft is able to output</span>, or the needed amount for an aircraft to achieve a set performance
 - Each engine varies in thrust output and propulsive efficiency
 	- For Reciprocating Engine-Propeller Combination : *Low Thrust, High Propulsive Efficiency, rated for endurance and efficiency*
 	- For Turbojet Engines/[Jet Engine](./Jet%20Engine.md) : *High Thrust, Less Propulsive Efficiency, rated for Range*
@@ -24,7 +24,7 @@ $$\therefore T\text{ @ Steady, Level, Unaccelerated Flight}=\frac{L}{\frac{C_{L}
 *Propulsive Efficiency of Different Engines (Yin, 2016)*
 #### Principle:
 - [Propellers](./Propellers.md) have the highest efficiency among other engines, but degrade at Mach 1.
-- [Turbojets](Turbojets.md) have strong velocity capabilities with ability to surpass Mach 1, thus longer range, but lower efficiency. 
+- [Turbojets](./Turbojets.md) have strong velocity capabilities with ability to surpass Mach 1, thus longer range, but lower efficiency. 
 - High [Bypass](Bypass.md) Turbojet engines have better efficiency compared to pure turbojets.
 #### Expound: 
 - [Propellers](./Propellers.md) 
@@ -32,7 +32,7 @@ $$\therefore T\text{ @ Steady, Level, Unaccelerated Flight}=\frac{L}{\frac{C_{L}
 	- *instead*: thrust is the resultant force parallel to the longitudinal axis of the cone or aircraft caused by Thrust, Drag, and other aerodynamic effects.
 	- *thus,* due to modifiable propeller radius, capturing more mass air, based on the *Thrust Equation* airfoil characteristics, increases the thrust output with less fuel consumption based on engine efficiency
 	- *however,* stalling speeds exist for airfoil profiles, thus efficiency drops after reaching sonic speeds
-- [Turbojets](Turbojets.md) 
+- [Turbojets](./Turbojets.md) 
 	- *utilizes* the velocity of the air for thrust creation, thus the use of air inlet, compression, and combustion
 	- *thus,* due to its principle, larger fuel is required to combust to achieve high speeds without the need for airfoils as the main propulsive mechanism
 	- *however,* this coincidentally reduces efficiency while negating the issue of airfoil stall for Propellers

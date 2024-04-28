@@ -12,7 +12,7 @@ $$v=\frac{ds}{dt}=\frac{\text{Range}}{\text{Endurance}}$$
 
 ---
 ### Variables:
-*Range and Endurance is limited by the factor of fuel amount and consumption of the [Powerplant](./Powerplant.md) due to its capabilities and aircraft [Aerodynamics](./Aerodynamics.md)* 
+*Range and Endurance is limited by the factor of fuel amount and consumption of the [Aircraft Powerplant](./Aircraft%20Powerplant.md) due to its capabilities and aircraft [Aerodynamics](./Aerodynamics.md)* 
 - $W_{0} = \text{Gross Weight}$ 
 - $W_{f} = \text{Fuel Weight}$ 
 - $W_{1} = \text{Weight w/o Fuel}$ 
