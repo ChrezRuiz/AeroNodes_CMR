@@ -1,0 +1,3 @@
+- Utilizes a flexible drive shaft and a cylindrical magnet within a drag cup.
+- The drag cup rotates through the permanent magnet
+- Drag cup rotation is proportional to the RPM produced, thus can be reliably and accurately measured
