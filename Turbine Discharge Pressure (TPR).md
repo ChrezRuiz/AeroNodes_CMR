@@ -1,0 +1,3 @@
+- refers to the total internal pressure
+- probe located aft of the last [Turbine Section (Jet Engine)](./Turbine%20Section%20(Jet%20Engine).md) stage
+- if corrected for variation due to altitude, airspeed, and ambient air temperature, accurate indications can be produced
