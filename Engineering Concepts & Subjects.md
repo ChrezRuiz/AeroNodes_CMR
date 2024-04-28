@@ -2,7 +2,7 @@
 
 # Aeronautical Engineering ✈️
 - **[Aerodynamics](./Aerodynamics.md)**
-- **[Powerplant](./Powerplant.md)**
+- **[Aircraft Powerplant](./Aircraft%20Powerplant.md)**
 - **[Thermodynamics](./Thermodynamics.md)**
 
 #SubHeader 
