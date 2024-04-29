@@ -27,8 +27,11 @@ Drag force affects the aerodynamics of an aircraft, thus affecting performance. 
 ![Drag Polar](./Drag%20Polar.md)
 
 ---
+# $V_{max}$ & $V_{min}$ 
+![Min and Max Velocity of Aircraft Performance](./Min%20and%20Max%20Velocity%20of%20Aircraft%20Performance.md) 
+
 # V. Rate of Climb
-![Rate of Climb](./Rate%20of%20Climb.md)
+![Rate and Time of Climb](./Rate%20and%20Time%20of%20Climb.md)
 
 --- 
 # VI. Range & Endurance

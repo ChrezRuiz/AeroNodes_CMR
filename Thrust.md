@@ -17,7 +17,9 @@ where:
 --- 
 ### Aerodynamic Thrust Equation:
 $$T=\frac{L}{\frac{C_{L}}{C_{D}}}$$
-$$\therefore T\text{ @ Steady, Level, Unaccelerated Flight}=\frac{L}{\frac{C_{L}}{C_{D}}}=\frac{W}{\frac{C_{L}}{C_{D}}}$$ ^f63895
+### Aerodynamic Thrust Equation During Steady, Level, Unaccelerated Flight
+*during steady, level, unaccelerated flight, opposite forces during flight are equal, thus can be equated to each other*
+$$T\text{ @ Steady, Level, Unaccelerated Flight}=\frac{W}{\frac{C_{L}}{C_{D}}}=D=qs[C_{D_{0}}+k(Cl)^{2}]$$ ^f63895
 ---
 ### Propulsive Efficiency
 ![Pasted image 20240421190357.png](./Engineering%20Concepts%20&%20Subjects/Aerodynamics/Chapter%206%20-%20Aircraft%20Performance/Photos/Pasted%20image%2020240421190357.png)
