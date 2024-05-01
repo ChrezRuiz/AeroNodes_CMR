@@ -1,4 +1,8 @@
-*Indicates [Thrust](./Thrust.md) and [Power](Power.md) of the engine*
+---
+tags:
+  - "#Jet_Engine_Performance_Indicator"
+---
+*Indicates [Thrust](./Thrust.md) and [Power](./Power.md) of the engine* ^51991e
 
 ### I. Thrust Indicators
 #### 1. Engine Pressure Ratio
@@ -11,6 +15,6 @@
 ---
 ### I. Power Indicators
 #### 1. Torque Oil Pressure (Torque %)
-![Torquemeter](./Torquemeter.md)
+![Torque Indicating System (Torquemeter)](./Torque%20Indicating%20System%20(Torquemeter).md)
 
 ---
