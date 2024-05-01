@@ -21,6 +21,14 @@ Thrust and is a major discussion for performance as velocity is related to all a
 ![Propellers](./Propellers.md)
 
 ---
+# The Tic-Tac-Toe
+- The Tic-Tac-Toe is a term used to indicate table discussed during my Aerodynamics 2 instructor's lectures, that being Eng. Delicano. It is served as a good general guideline into understanding which $\frac{L}{D}$ condition to be used at a specific scenario
+- Due to its simplicity and aid, it'll be included and referred to as such
+- *Conditions are not always a substitution process, rather, most of which requires derivation. Be wary of how each equation to be discussed is derived and remember which can simply be substituted*
+	- However, if a parameter is being asked for a specific mission requirement or maximizing or minimizing a different parameter, then the table may be used
+![General Aircraft Performance LD Conditions](./General%20Aircraft%20Performance%20LD%20Conditions.md)
+
+---
 # IV. Drag Polar
 Drag force affects the aerodynamics of an aircraft, thus affecting performance. Analysis of the variable is important for proper determination of aircraft performance.
 

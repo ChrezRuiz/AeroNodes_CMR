@@ -78,7 +78,7 @@ $$v=\frac{ds}{dt}=\frac{\text{Range}}{\text{Endurance}}$$
 	- *Endurance* 
 		- for propellers, we can use PSFC because of power-base $$\text{if }c=\frac{\dot{W_{F}}}{P}=\frac{\int^{W_{0}}_{W_{1}}\frac{dW}{dt}}{P}$$
 		- transposing to isolate $dt$  $$\therefore E=\int^{W_{0}}_{W_{1}}dt=\int^{W_{0}}_{W_{1}}\frac{dW}{c(P)}$$
-		- expand [Power](Power.md), to obtain basic aircraft performance variables $$\therefore E=\int^{W_{0}}_{W_{1}}\frac{dW}{c(T)(V)}$$
+		- expand [Power](./Power.md), to obtain basic aircraft performance variables $$\therefore E=\int^{W_{0}}_{W_{1}}\frac{dW}{c(T)(V)}$$
 		- expand [Thrust](./Thrust.md) to obtain relationship with Weight. *Remember this equation as $dt$* $$\therefore E=\int^{W_{0}}_{W_{1}}\left(\frac{C_{L}}{C_{D}}\right)\left(\frac{dW}{c(V)(W)}\right)=\frac{1}{c}\left(\frac{C_{L}}{C_{D}}\right)\left(\frac{1}{V}\right)\int^{W_{0}}_{W_{1}}\frac{dW}{W}=dt$$
 		- expand Velocity to extract Weight Factor $$\text{if } V=\sqrt\frac{2W}{\rho sC_{L}}$$ $$\therefore E=\frac{1}{c}\left(\frac{C_{L}}{C_{D}}\right)\left(\sqrt\frac{\rho s C_{L}}{2W}\right)\int^{W_{0}}_{W_{1}}\frac{dW}{W}$$
 		- extract W from velocity equation to combine and integrate with $\frac{dW}{W}$, W in Velocity becomes $\frac{1}{\sqrt{W}}=\frac{1}{W^{\frac{1}{2}}}$ , which can be multiplied to $\frac{dW}{W}$  $$\therefore E=\frac{1}{c}\left(\frac{C_{L}^\frac{3}{2}}{C_{D}}\right)\left(\sqrt\frac{\rho s}{2}\right)\int^{W_{0}}_{W_{1}}\frac{dW}{W^\frac{3}{2}}$$

@@ -17,6 +17,7 @@
 - N<sub>2</sub> - HPC and Turbine Speed
 - N<sub>3</sub> - triple spool
 
-#### Systems
+#### System Types for Jet Engines
 - ![Three-phase Generator Percent RPM System](./Three-phase%20Generator%20Percent%20RPM%20System.md)
-- ![Magnetic Pickup Percent RPM System](Magnetic%20Pickup%20Percent%20RPM%20System.md)
+- ![Magnetic Pickup Percent RPM System](./Magnetic%20Pickup%20Percent%20RPM%20System.md)
+- ![Electronic Gearbox-Mounted N_2 Speed Sensor](./Electronic%20Gearbox-Mounted%20N_2%20Speed%20Sensor.md)

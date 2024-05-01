@@ -1,3 +1,7 @@
+---
+tags:
+  - Jet_Engine_Performance_Indicator
+---
 - <span style="background:rgba(5, 117, 197, 0.2)">The amount of [Force](Force.md) that the [Aircraft Powerplant](./Aircraft%20Powerplant.md) of the aircraft is able to output</span>, or the needed amount for an aircraft to achieve a set performance
 - Each engine varies in thrust output and propulsive efficiency
 	- For Reciprocating Engine-Propeller Combination : *Low Thrust, High Propulsive Efficiency, rated for endurance and efficiency*
@@ -8,7 +12,7 @@
 ### Engine Thrust Equation:
 
 $$
-F = \dot{m}(V_i-V_{e}) +A_1(P_i-P_e)
+F = \dot{m}(V_{e}-V_{i}) +A_e(P_e-P_i)
 $$
 where:
 - $V_{i}$ and $P_{i}$ are Inlet Velocity and Pressure

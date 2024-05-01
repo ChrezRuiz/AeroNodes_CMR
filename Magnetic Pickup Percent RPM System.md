@@ -1,0 +1,2 @@
+- system based on the [Three-phase Generator Percent RPM System](./Three-phase%20Generator%20Percent%20RPM%20System.md) to measure fan (LPC) percent speed
+- installed inside the fan case, adjacent the fan, that counts the number of blades interrupting its magnetic field, which can be used to calculate RPM %

@@ -1,0 +1,1 @@
+- N<sub>2</sub> percent speed can be measured through the main accessory gearbox through ferrous gears passing through lines of flux which can be measured through frequencies, providing data to calculate RPM

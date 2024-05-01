@@ -70,22 +70,22 @@
 
 ### Engin Oil Grading System
 - based on [Society of Automotive Engineers (SAE)](./Society%20of%20Automotive%20Engineers%20(SAE).md) manufacturing srtandard 
-- ![Pasted image 20240424164205.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164205.png)
-- ![Pasted image 20240424164248.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164248.png)
+- ![Pasted image 20240424164205.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164205.png)
+- ![Pasted image 20240424164248.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164248.png)
 	- compared to previous, it provides more detail (former only discusses viscosity)
-- ![Pasted image 20240424164340.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164340.png)
+- ![Pasted image 20240424164340.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164340.png)
 
 ### Types of Oil
-- ![Pasted image 20240424164419.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164419.png)
+- ![Pasted image 20240424164419.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164419.png)
 	- Sludge - over contamination which clogs filters and passages
 	- not ideal for prolonged use of aircraft engines
-- ![Pasted image 20240424164552.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164552.png)
+- ![Pasted image 20240424164552.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164552.png)
 	- a small period of break and wear is necessary for proper sealing
 	- **what is break-in?**
-- ![Pasted image 20240424164802.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164802.png)
-- ![Pasted image 20240424165023.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165023.png)
-	- ![Pasted image 20240424165132.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165132.png)
-- ![Pasted image 20240424165304.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165304.png)
+- ![Pasted image 20240424164802.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424164802.png)
+- ![Pasted image 20240424165023.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165023.png)
+	- ![Pasted image 20240424165132.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165132.png)
+- ![Pasted image 20240424165304.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165304.png)
 
 
 
@@ -104,41 +104,41 @@
 ### Systems:
 - Dry Sump
 	- most common; located outside the engine
-	- ![Pasted image 20240424165616.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165616.png)
+	- ![Pasted image 20240424165616.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165616.png)
 - Wet Sump
 	- system has the reservoir within the endine itself (simpler but less efficient)
 - Oil Reservoir
 	- stores the oil used for lubrication
 	- typically constructed of formed sheet Al
 - Oil Pumps
-	- ![Pasted image 20240424165714.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165714.png)
+	- ![Pasted image 20240424165714.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165714.png)
 	- Gear Pump
-		- ![Pasted image 20240424165827.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165827.png)
+		- ![Pasted image 20240424165827.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165827.png)
 	- Vane Pump
-		- ![Pasted image 20240424165851.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165851.png)
+		- ![Pasted image 20240424165851.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165851.png)
 		- commonly for APU
 		- no high pressure capacity
 		- allows variable flow
 	- Gerotor Pump
-		- ![Pasted image 20240424165930.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165930.png)
+		- ![Pasted image 20240424165930.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424165930.png)
 		- enables variable flow
 		- silent
 		- more complex
 	- Scavenge Pump
-		- ![Pasted image 20240424170024.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424170024.png)
+		- ![Pasted image 20240424170024.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424170024.png)
 		- larger capacity, ensuring prevention of complation causing clogging and others
 - Pressure Relief Valve and Full-flow
-	- ![Pasted image 20240424170209.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424170209.png)
+	- ![Pasted image 20240424170209.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424170209.png)
 	- ensures constant/consistents pressure
 	- Full-flow does not, allowing it to flow, thus an adequate pressure for all components must be provided
 	- *Functions:*
 	- ensures consistent pressure, avoiding excessive pressure
-	- ![Pasted image 20240424170345.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424170345.png)
+	- ![Pasted image 20240424170345.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424170345.png)
 - Full-flow
-	- ![Pasted image 20240424170524.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424170524.png)
+	- ![Pasted image 20240424170524.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424170524.png)
 	- Size is based on the flow required by the system to meet the lubrication demands
 - Oil Filters
-	- ![Pasted image 20240424170644.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424170644.png)
+	- ![Pasted image 20240424170644.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424170644.png)
 - Oil Jets
 	- fixed nozzles ensuring constant flow to main bearings across engine speeds
 	- crucial for main rotor bearings due to high speed and load, vital for turbine bearings due to heat exposure
@@ -197,6 +197,6 @@
 			- Manual: warning light illuminates each time gap is bridged
 			- Automatic: time-delay relay prevents immeadiate illumination of light
 
-![Pasted image 20240424173020.png](./Engineering%20Concepts%20&%20Subjects/Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424173020.png)
+![Pasted image 20240424173020.png](./Engineering%20Concepts%20&%20Subjects/Aircraft%20Powerplant/Jet%20Engine/Lubrication%20System/Pictures/Pasted%20image%2020240424173020.png)
 ### Relationshp between oil presure and engine speed
 - 

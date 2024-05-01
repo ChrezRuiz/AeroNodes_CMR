@@ -1,3 +1,7 @@
+---
+tags:
+  - Engine_Condition_Indicator
+---
 *indicate effort to output work reported by [Performance Indicators](./Performance%20Indicators.md)*
 
 ### I. Exhaust Gas Temperature
@@ -14,19 +18,15 @@
 
 ---
 ### IV. Oil Pressure
-- pressure obtained from an external oil line at the accessories gearbox
 
 ---
 ### V. Oil temperature 
-- temperature obtained in the iexternal line at the accessru gearbox
 
 ---
 ### VI. Oil Quantity
-- amount of oil measured from the oil tank
 
 ---
 ### VII. Fuel Pressure
-- taken at the metered pressure line from the fuel control
 
 ---
 ### VIII. Engine Vibration 
