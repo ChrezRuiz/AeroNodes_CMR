@@ -14,7 +14,6 @@
 - [Fuel Flow Indicator](./Fuel%20Flow%20Indicator.md)
 - Engine Vibration and Pressure
 - Oil Pressure
-- [Turbine Gas Temperature (TGT)](./Turbine%20Gas%20Temperature%20(TGT).md)
 - Fuel Temperature
 - Fuel Quantity
 
