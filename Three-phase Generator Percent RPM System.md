@@ -1,4 +1,3 @@
-- The [Electric Tachometer](./Electric%20Tachometer.md) is an independent electrical device
 - Powered by engine-driven 3-phase AC generator and synchronous motor-driven indicator
 - Gearbox tachometer drive is proportional to compressor speed
 - *Benefit:* ability to interchange tachometer designation from one section or engine to another
