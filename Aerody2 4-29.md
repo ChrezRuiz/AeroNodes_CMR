@@ -4,7 +4,7 @@ lighter, the better load factor
 
 power works well at low speed
 
-![Pasted image 20240429160114.png](./Fleeting%20Notes/Pasted%20image%2020240429160114.png)
+![Pasted image 20240429160114.png](./Fleeting%20Notes/Pictures/Pasted%20image%2020240429160114.png)
 
 # Lecture 7: Glide
 Max Range is not glide range
