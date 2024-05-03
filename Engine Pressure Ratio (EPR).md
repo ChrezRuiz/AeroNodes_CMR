@@ -8,15 +8,18 @@ tags:
 - *Principle:*
 		- The pressure buildup causes potential energy, which is then transformed into kinetic energy. Thus, the higher the compression ratio, the higher the discharge pressure, the more thrust.
 		- [Thrust](./Thrust.md) produced for turbofan engines can be calculated through pressure data at the **engine inlet** and **high-pressure turbine discharge** (nozzle)
-- *Recall:* ![Thrust > Engine Thrust Equation](./Thrust.md#Engine%20Thrust%20Equation) ![Bernoulli's Equation > General Equation](./Bernoulli's%20Equation.md#General%20Equation)![Bernoulli's Equation > Basic Continuity Equation](./Bernoulli's%20Equation.md#Basic%20Continuity%20Equation)
+### *Recall:* ![Thrust > Engine Thrust Equation](./Thrust.md#Engine%20Thrust%20Equation) ![Bernoulli's Equation > General Equation](./Bernoulli's%20Equation.md#General%20Equation)![Bernoulli's Equation > Basic Continuity Equation](./Bernoulli's%20Equation.md#Basic%20Continuity%20Equation)
 - *Thus:* Pressure data acquisition at both the inlet and outlet can be used to calculate the velocity at both regions and to calculate both factors of the thrust equation
 
 ---
 ### EPR Equation
-$$\text{EPR}=\frac{P_{t_{e}}}{P_{t_{i}}}$$
+$$\text{EPR}=\frac{P_{t_{e}}}{P_{t_{i}}}\text{ or }IEPR=\frac{P_{t_{e}}+P_{\text{bypass}}}{P_{t_{i}}} $$
 where:
+- $\text{EPR = Engine Pressure Ratio}$
+- $\text{IEPR = Integrated Pressure Ratio}$ 
 - $P_{t_{e}}=\text{Discharge Pressure}$
 - $P_{t_{i}}=\text{Inlet Pressure}$
+- $P_{\text{bypass}}=\text{Bypass Air Pressure}$ 
 
 ---
 ### Modern Systems
