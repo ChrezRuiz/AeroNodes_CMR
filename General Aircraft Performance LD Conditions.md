@@ -14,4 +14,4 @@
 
 
 
-![Pasted image 20240429153535.png](./Fleeting%20Notes/Pasted%20image%2020240429153535.png)
+![Pasted image 20240429153535.png](./Fleeting%20Notes/Pictures/Pasted%20image%2020240429153535.png)
