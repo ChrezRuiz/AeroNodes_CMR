@@ -12,5 +12,6 @@
 - Mass flow hits the turbine which is restrained by restraining springs
 - Effect of turbine on restraining springs provide indication of fuel mass flow
 
-*Simple Demonstration of a Fuel Flow Indicator*
+
+### *Simple Demonstration of a Fuel Flow Indicator*
 ![AC selsyn synchro transmitter and fuel flow indicator](https://youtu.be/YAigb9MhKxc?si=cTSCL7GBWdoehAP-)
