@@ -14,7 +14,7 @@ tags:
 
 ---
 ### III. Compressor Speed
-![%RPM Indicator (Compressor Speed)](./%25RPM%20Indicator%20(Compressor%20Speed).md)
+![%RPM Indicator (Tachometer)](./%25RPM%20Indicator%20(Tachometer).md)
 
 ---
 ### IV. Oil Pressure
