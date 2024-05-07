@@ -21,32 +21,32 @@ $$v=\frac{ds}{dt}=\frac{\text{Range}}{\text{Endurance}}$$
 ### Principles:
 #### General:
 - $\uparrow \text{Range}$ 
-	- *Power utilized for distance and lift, thus less efficiency due to necessity to provide for both.*
-	- $\uparrow V, \uparrow P_{req}$
+		- *Power utilized for distance and lift, thus less efficiency due to necessity to provide for both.*
+		- $\uparrow V, \uparrow P_{req}$
 - $\uparrow\text{Endurance}$ 
-	- *Power utilized for lift, thus, focus on providing lifting force increases efficiency.*
-	- $\downarrow V,\downarrow P_{req}$
+		- *Power utilized for lift, thus, focus on providing lifting force increases efficiency.*
+		- $\downarrow V,\downarrow P_{req}$
 #### Engine-Specific:
 - ##### Propeller-Driven
 	*Refer to Equations below for further analysis*
-	- *For Range:*
-		1. Largest Possible Propeller Efficiency
-		2. Lowest Possible PSFC
-		3. Largest $W_{F}$
-		4. Flight @ $\frac{L}{D}_{max}$ 
-	- *For Endurance:*
-		1. $\eta_{max}$ 
-		2. $c_{min}$
-		3. Largest $W_{F}$
-		4. Flight @ $\frac{C_{L}^\frac{3}{2}}{C_D}$ 
-		5. Flight @ SL, due to $\rho$ consideration.
+		- *For Range:*
+				1. Largest Possible Propeller Efficiency
+				2. Lowest Possible PSFC
+				3. Largest $W_{F}$
+				4. Flight @ $\frac{L}{D}_{max}$ 
+		- *For Endurance:*
+				1. $\eta_{max}$ 
+				2. $c_{min}$
+				3. Largest $W_{F}$
+				4. Flight @ $\frac{C_{L}^\frac{3}{2}}{C_D}$ 
+				5. Flight @ SL, due to $\rho$ consideration.
 - ##### Jet Engine
-	- *For Range:*
-		1. Flight @ $\frac{C_{L}^\frac{1}{2}}{C_{D}}_{max}$ 
-	- *For Endurance:*
-		1. Max Endurance @ $T_{R-min}$ 
-		2. Max Endurance @ $\frac{C_{L}}{C_{D}}_{max}$ 
-		3. Flight @ $\frac{C_{L}}{C_{D}}$ 
+		- *For Range:*
+				1. Flight @ $\frac{C_{L}^\frac{1}{2}}{C_{D}}_{max}$ 
+		- *For Endurance:*
+				1. Max Endurance @ $T_{R-min}$ 
+				2. Max Endurance @ $\frac{C_{L}}{C_{D}}_{max}$ 
+				3. Flight @ $\frac{C_{L}}{C_{D}}$ 
 ---
 ### Equations:
 #### Weight Variable Change $(\dot{-W_{f}})$
