@@ -1,7 +1,6 @@
 ### Definition
 - distance between the engine and the tachometer limits the use of flexible drive shaft
 - tachometer generators are installed in both the engine and the cockpit, such that AC voltage is produced to transfer RPM data through frequency measurements
-- refer to page 80 (2nd Jeppessen Book)
 
 ---
 ### For Turbojets
