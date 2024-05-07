@@ -48,6 +48,7 @@ Differentiating the range and endurance capabilities of an aircraft determines t
 ![Range and Endurance](./Range%20and%20Endurance.md)
 
 --- 
-
+# VII. Glide Angle
+![Aircraft Glide Performance](./Aircraft%20Glide%20Performance.md) 
 
 

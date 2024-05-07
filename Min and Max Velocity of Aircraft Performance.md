@@ -19,8 +19,8 @@
 	- $C_{l}$ can be substituted to its basic form to obtain $q$ which is factored by $V$ $$\text{where }C_{l}=\frac{W}{qs}\therefore T_{a}=qs\left[C_{d_{0}}+k\left(\frac{W^{2}}{q^{2}s^{2}}\right)\right]$$
 	- multiply both sides by q to create quadratic equation, which allows q to be obtained $$ q \left[T_{a}=qs\left[C_{d_{0}}-k\left(\frac{W^{2}}{q^{2}s^{2}}\right)\right]\right] \rightarrow q^{2}sC_{d_{0}}-qT_{a}+\frac{kW^{2}}{s}=0$$
 	- use the quadratic formula to find the value of $q$ ![Quadratic Formula](./Quadratic%20Formula.md#^01b5a4)
-	- therefore, $$q=\frac{T_{a}\pm \sqrt{T_{a}^{2}-4(sC_{d_{0}})(\frac{kW^{2}}{2})}}{2sC_{d_0}}$$
+	- therefore, $$q=\frac{T_{a}\pm \sqrt{T_{a}^{2}-4(sC_{d_{0}})(\frac{kW^{2}}{s})}}{2sC_{d_0}}$$
 	- *recall:* ![Dynamic Pressure (q)](./Dynamic%20Pressure%20(q).md#^5ed2e9)
-	- which can then be equated to $$V=\sqrt{\frac{T_{a}\pm \sqrt{T_{a}^{2}-4(sC_{d_{0}})(\frac{kW^{2}}{2})}}{qsC_{d_0}}}$$
+	- which can then be equated to $$V=\sqrt{\frac{T_{a}\pm \sqrt{T_{a}^{2}-4(C_{d_{0}})(kW^{2})}}{\rho sC_{d_0}}}$$
 - #### Equation considering Wing Loading
 	- Wing loading consideration is important in understanding the limits of the airframe and the structure of the aircraft $$V_{max}=\sqrt{\frac{\left(\frac{T_{A}}{W}\right)_{max}\left(\frac{W}{S}\right)+\frac{W}{S}\sqrt{\left(\frac{T_{A}}{W}\right)^{2}-(4C_{D_{0}}k)}}{\rho_{\infty}C_{D_{0}}}}$$

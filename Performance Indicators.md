@@ -10,7 +10,7 @@ tags:
 
 ---
 #### 2. Fan/Compressor Speed
-![%RPM Indicator (Compressor Speed)](./%25RPM%20Indicator%20(Compressor%20Speed).md)
+![%RPM Indicator (Tachometer)](./%25RPM%20Indicator%20(Tachometer).md)
 
 ---
 ### I. Power Indicators

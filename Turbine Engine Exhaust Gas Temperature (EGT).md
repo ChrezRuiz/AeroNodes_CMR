@@ -2,6 +2,7 @@
 tags:
   - Engine_Condition_Indicator
 ---
+### Definition
 - critical limiting factor of jet engine operation
 - crucial to monitor to avoid turbine overheat and damage
 
@@ -28,7 +29,8 @@ Such that, temperature rise due to ram effects can be calculated, and the actual
 - [K-type Thermocouple](./K-type%20Thermocouple.md)
 - Circuit Leads
 - Variable Calibrating Sensor
-- [d'Arsonval Meter](./d'Arsonval%20Meter.md)
+- [d'Arsonval Meter](./d'Arsonval%20Meter.md) (Analog)
+- EICAS (Digital)
 
 ---
 ### System Operation (Temperature)

@@ -3,7 +3,7 @@ tags:
   - Engine_Thrust_Indicator
 ---
 ### Definition
-- EPR is a thrust indicating system and a back-up system for [%RPM Indicator (Compressor Speed)](./%25RPM%20Indicator%20(Compressor%20Speed).md) on engines using N<sub>1</sub> as their primary performance parameter
+- EPR is a thrust indicating system and a back-up system for [%RPM Indicator (Tachometer)](./%25RPM%20Indicator%20(Tachometer).md) on engines using N<sub>1</sub> as their primary performance parameter
 - The ratio between discharge pressure and inlet pressure, or turbine discharge pressure and compressor inlet pressure
 - *Principle:*
 		- The pressure buildup causes potential energy, which is then transformed into kinetic energy. Thus, the higher the compression ratio, the higher the discharge pressure, the more thrust.

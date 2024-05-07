@@ -7,10 +7,10 @@
 *digital and analog displayed*
 - [Engine Pressure Ratio (EPR)](./Engine%20Pressure%20Ratio%20(EPR).md)
 - [Turbine Engine Exhaust Gas Temperature (EGT)](./Turbine%20Engine%20Exhaust%20Gas%20Temperature%20(EGT).md)
-- [%RPM Indicator (Compressor Speed)](./%25RPM%20Indicator%20(Compressor%20Speed).md) (N<sub>1</sub>)
+- [%RPM Indicator (Tachometer)](./%25RPM%20Indicator%20(Tachometer).md) (N<sub>1</sub>)
 #### Secondary
 *displayed at the bottom; may be hidden during cruise, except when fault is detected*
-- [%RPM Indicator (Compressor Speed)](./%25RPM%20Indicator%20(Compressor%20Speed).md) (N<sub>2</sub> & N<sub>3</sub>)
+- [%RPM Indicator (Tachometer)](./%25RPM%20Indicator%20(Tachometer).md) (N<sub>2</sub> & N<sub>3</sub>)
 - [Fuel Flow Indicator](./Fuel%20Flow%20Indicator.md)
 - Engine Vibration and Pressure
 - Oil Pressure
@@ -66,3 +66,14 @@
 - [Turbine Inlet Temperature (TIT)](./Turbine%20Inlet%20Temperature%20(TIT).md)
 - [Interstage Turbine Temperature (ITT)](./Interstage%20Turbine%20Temperature%20(ITT).md)
 - [Turbine Engine Exhaust Gas Temperature (EGT)](./Turbine%20Engine%20Exhaust%20Gas%20Temperature%20(EGT).md)
+
+---
+#### EICAS vs ECAM
+##### EICAS
+- Engine indicating and crew alerting system
+- for Boeing aircraft
+- Only indicates engine aircraft system condition and failure
+##### ECAM
+- Electronic centralized aircraft monitoring
+- for Airbus aircraft
+- Indicates both engine aircraft system condition and failure, and non-normal checklist and status during for a respective failure if it occurs
